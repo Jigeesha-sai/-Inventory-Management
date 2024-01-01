@@ -1,1 +1,2 @@
 # -Inventory-Management
+The goal of this project is to create a simple Inventory Management System using Python. This system allows you to manage a collection of products, perform various inventory-related operations, and keep track of product details. This project is an excellent opportunity for learners to apply their Python programming skills and gain experience in working with data structures, functions, and basic file handling.
